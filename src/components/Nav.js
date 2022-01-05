@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "@mui/material/Button";
 import ButtonGroup from "@mui/material/ButtonGroup";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Nav() {
   return (
